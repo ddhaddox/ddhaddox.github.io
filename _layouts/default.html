@@ -1,6 +1,15 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-F1S9FK6PSF"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-F1S9FK6PSF');
+    </script>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -23,19 +32,11 @@
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
-<!--         {% if site.github.is_project_page %}
-        <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
-        {% endif %}
-
-        {% if site.github.is_user_page %}
-        <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
-        {% endif %} -->
-
         {% if site.show_downloads %}
         <ul class="downloads">
           <li><a href="{{ site.cv }}">Download <strong>CV</strong></a></li>
           <li><a href="{{ site.twitter }}">Visit <strong>Twitter</strong></a></li>
-          <li><a href="mailto:{{ site.email }}">Email <strong>Me</strong></a></li>
+          <li><a href="mailto:{{ site.email }}">Send <strong>Email</strong></a></li>
         </ul>
         {% endif %}
       </header>

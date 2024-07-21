@@ -3,7 +3,7 @@ layout: default
 ---
 
 # About Me
-I am an undergraduate psychology major at Dartmouth College, with minors in computer science and philosophy. I work as a research assistant in Dr. Nicholas Jacobson’s AI and Mental Health: Innovation in Technology-Guided Healthcare Lab and Dr. Thalia Wheatley’s Dartmouth Social Systems Lab. My goal is to pursue a PhD in clinical psychology, focusing on applying the precision medicine model to clinical psychology and psychiatry. Outside of academics, I am an active member of the Dartmouth Sings a cappella group and serve as an officer for the Dartmouth Philosophy Society. In my leisure time, I enjoy reading, music, and computer and roleplaying games.
+I am an undergraduate psychology major at Dartmouth College, with minors in computer science and philosophy. I work as a research assistant in [Dr. Nicholas Jacobson’s AI and Mental Health: Innovation in Technology-Guided Healthcare Lab](https://geiselmed.dartmouth.edu/jacobsonlab/) and [Dr. Thalia Wheatley’s Dartmouth Social Systems Lab](http://www.wheatlab.com). My goal is to pursue a PhD in clinical psychology, focusing on applying the precision medicine model to clinical psychology and psychiatry. Outside of academics, I am an active member of the Dartmouth Sings a cappella group and serve as an officer for the Dartmouth Philosophy Society. In my leisure time, I enjoy reading, walking in nature, and computer and roleplaying games.
 
 *!! I am applying to Clinical Psychology PhD programs for the 2025 admissions cycle !!*
 
