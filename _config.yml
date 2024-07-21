@@ -1,8 +1,8 @@
 title: Dawson Haddox
 logo: /assets/img/logo.png
 theme: jekyll-theme-minimal
-show_downloads: false
+show_downloads: true
 google_analytics: true
 twitter: https://x.com/DawsonHaddox
-# cv: /assets/documents/HaddoxCVJuly2024.pdf
-# banner:
+email: dawson.d.haddox.25@dartmouth.edu
+cv: /assets/documents/HaddoxCVJuly2024.pdf
