@@ -17,18 +17,17 @@ Bachelor of Arts in Psychology, Minors in Computer Science and Philosophy
 
 # Publications
 
-Price, G.D., Langener, A.M., Haddox, D., Heinz, M.V., Mackin, D.M., Nemesure, M.D., Collins, A.C., Griffin, T.Z., Pillai, A., Nepal, S., Lekkas, D., Campbell, A.T., & Jacobson, N.C. (invited resubmission). Predicting weekly variability in depressive symptoms among individuals diagnosed with Major Depressive Disorder using deep learning and passively gathered movement data. Psychopathology and Clinical Science.
+Price, G.D., Langener, A.M., **Haddox, D.**, Heinz, M.V., Mackin, D.M., Nemesure, M.D., Collins, A.C., Griffin, T.Z., Pillai, A., Nepal, S., Lekkas, D., Campbell, A.T., & Jacobson, N.C. (invited resubmission). Predicting weekly variability in depressive symptoms among individuals diagnosed with Major Depressive Disorder using deep learning and passively gathered movement data. Psychopathology and Clinical Science.
 
 Collins, A. C., Price, G. D., Dainer-Best, J., Haddox, D., Beevers, C. G., & Jacobson, N. C. (under review). Changes to positive self-schemas after a positive imagery training are predicted by participant characteristics in a sample with elevated depressive symptoms.
 
 # Manuscripts in Preparation
-Haddox, D., Mackin, D.M., Heinz, M.V., Nemesure, M.D., Collins, A.C., Price, G., Griffin, T.Z., Pillai, A., Nepal, S., Lekkas, D., Campbell, A.T., & Jacobson, N.C. (in preparation). Assessing the psychometric properties and validity of a Mobile Patient Health Questionnaire-9 for ecological momentary assessment.
+**Haddox, D.**, Mackin, D.M., Heinz, M.V., Nemesure, M.D., Collins, A.C., Price, G., Griffin, T.Z., Pillai, A., Nepal, S., Lekkas, D., Campbell, A.T., & Jacobson, N.C. (in preparation). Assessing the psychometric properties and validity of a Mobile Patient Health Questionnaire-9 for ecological momentary assessment.
 
-Templeton, E., Chang, L., Cone LeBeaumont, M., Haddox, D., Aiman, E., & Wheatley, T. (in preparation). From talk to telepathy: The social benefits of saying more with less.
+Templeton, E., Chang, L., Cone LeBeaumont, M., **Haddox, D.**, Aiman, E., & Wheatley, T. (in preparation). From talk to telepathy: The social benefits of saying more with less.
 
-Hill, C., Haddox, D., Setiawan, J., Mari, S., & Sawaumi, T. (in preparation). A cross-cultural analysis of feelings and behaviors in friendships, romantic partnerships, and parent-child relationships
+Hill, C., **Haddox, D.**, Setiawan, J., Mari, S., & Sawaumi, T. (in preparation). A cross-cultural analysis of feelings and behaviors in friendships, romantic partnerships, and parent-child relationships
 
-**Unnamed Projects:**
-1.    Predicting weekly PTSD symptoms in a sample of world trade center first responders using deep learning and actigraphy
-2.    Predicting treatment response to single session interventions
-3.    Predicting weekly depression symptoms using deep learning and passively gathered GPS data
+Mackin, D. M., Dorris, H., **Haddox, D.**, Price, G. D., Kotov, R., Ruggero, C. J., Feltman, S. M., Luft, B. J., & Jacobson, N. C. (in preparation). Predicting daily PTSD symptoms in World Trade Center responders using passively-collected movement data: A nomothetic deep learning approach.
+
+Mackin, D. M., Dorris, H., York, C., **Haddox, D.**, Schleider, J., & Jacobson, N. C. (in preparation). Predicting individual response to digital single session interventions for adolescent depression: A secondary analysis using ensemble machine learning models.
