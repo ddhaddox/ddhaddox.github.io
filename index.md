@@ -19,7 +19,7 @@ Bachelor of Arts in Psychology, Minors in Computer Science and Philosophy
 
 Price, G.D., Langener, A.M., **Haddox, D.**, Heinz, M.V., Mackin, D.M., Nemesure, M.D., Collins, A.C., Griffin, T.Z., Pillai, A., Nepal, S., Lekkas, D., Campbell, A.T., & Jacobson, N.C. (invited resubmission). Predicting weekly variability in depressive symptoms among individuals diagnosed with Major Depressive Disorder using deep learning and passively gathered movement data. Psychopathology and Clinical Science.
 
-Collins, A. C., Price, G. D., Dainer-Best, J., Haddox, D., Beevers, C. G., & Jacobson, N. C. (under review). Changes to positive self-schemas after a positive imagery training are predicted by participant characteristics in a sample with elevated depressive symptoms.
+Collins, A. C., Price, G. D., Dainer-Best, J., **Haddox, D.**, Beevers, C. G., & Jacobson, N. C. (under review). Changes to positive self-schemas after a positive imagery training are predicted by participant characteristics in a sample with elevated depressive symptoms.
 
 # Manuscripts in Preparation
 **Haddox, D.**, Mackin, D.M., Heinz, M.V., Nemesure, M.D., Collins, A.C., Price, G., Griffin, T.Z., Pillai, A., Nepal, S., Lekkas, D., Campbell, A.T., & Jacobson, N.C. (in preparation). Assessing the psychometric properties and validity of a Mobile Patient Health Questionnaire-9 for ecological momentary assessment.
