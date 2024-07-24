@@ -40,7 +40,7 @@ a {
   text-decoration:none;
 }
 
-a:hover, a:focus {
+a:hover:not(.downloads a), a:focus:not(.downloads a) {
   color:#267CB9;
   text-decoration: underline;
 }
