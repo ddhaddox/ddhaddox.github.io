@@ -28,6 +28,6 @@ Templeton, E., Chang, L., Cone LeBeaumont, M., **Haddox, D.**, Aiman, E., & Whea
 
 Hill, C., **Haddox, D.**, Setiawan, J., Mari, S., & Sawaumi, T. (in preparation). A cross-cultural analysis of feelings and behaviors in friendships, romantic partnerships, and parent-child relationships
 
-Mackin, D. M., Dorris, H., **Haddox, D.**, Price, G. D., Kotov, R., Ruggero, C. J., Feltman, S. M., Luft, B. J., & Jacobson, N. C. (in preparation). Predicting daily PTSD symptoms in World Trade Center responders using passively-collected movement data: A nomothetic deep learning approach.
+Mackin, D. M., Dorris, H., **Haddox, D.**, Price, G. D., Kotov, R., Ruggero, C. J., Feltman, S. M., Luft, B. J., & Jacobson, N. C. (in preparation). Predicting daily PTSD symptoms in World Trade Center responders using passively-collected movement data: An idiographic deep learning approach.
 
 Mackin, D. M., Dorris, H., York, C., **Haddox, D.**, Schleider, J., & Jacobson, N. C. (in preparation). Predicting individual response to digital single session interventions for adolescent depression: A secondary analysis using ensemble machine learning models.
