@@ -3,12 +3,9 @@ layout: default
 ---
 
 # About Me
-I am an undergraduate psychology major at Dartmouth College, with minors in computer science and philosophy. I work as a research assistant in Dr. Nicholas Jacobson’s [AI and Mental Health: Innovation in Technology-Guided Healthcare Lab](https://geiselmed.dartmouth.edu/jacobsonlab/) and Dr. Thalia Wheatley’s [Dartmouth Social Systems Lab](http://www.wheatlab.com). My goal is to pursue a PhD in clinical psychology, focusing on using mathematical and computational techniques to improve the measurement, modeling, and conceptualization of psychopathology. Outside of academics, I am an active member of the Dartmouth Sings a cappella group and serve as an officer for the Dartmouth Philosophy Society. In my leisure time, I enjoy reading, walking in nature, and computer and roleplaying games.
+I am an undergraduate psychology major at Dartmouth College, with minors in computer science and philosophy. I work as a research assistant in Dr. Nicholas Jacobson’s [AI and Mental Health: Innovation in Technology-Guided Healthcare Lab](https://geiselmed.dartmouth.edu/jacobsonlab/) and Dr. Thalia Wheatley’s [Dartmouth Social Systems Lab](http://www.wheatlab.com). My goal is to pursue a PhD in clinical psychology, focusing on using mathematical and computational techniques to improve the measurement, modeling, and conceptualization of psychopathology, which I hope can translate into clinically relevant insights and interventions. Outside of academics, I am an active member of the Dartmouth Sings a cappella group and serve as an officer for the Dartmouth Philosophy Society. In my leisure time, I enjoy reading, walking in nature, and computer and roleplaying games.
 
 *!! I am applying to Clinical Psychology PhD programs for the 2025 admissions cycle !!*
-
-# Research Interests
-Intensive Longitudinal Data, Personalized and Dimensional Models of Psychopathology, Modeling Psychopathology as a Complex System, Prediction, Personalized Treatment, Psychometrics, Digital Ethics, Mental Health Disparities
 
 # Education
 Dartmouth College, 2021-2025 (Expected)
