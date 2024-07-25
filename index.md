@@ -8,7 +8,7 @@ I am an undergraduate psychology major at Dartmouth College, with minors in comp
 *!! I am applying to Clinical Psychology PhD programs for the 2025 admissions cycle !!*
 
 # Research Interests
-Intensive Longitudinal Data, Personalized and Dimensional Models of Psychopathology, Modeling Psychopathology as a Complex System, Computational Psychiatry, Prediction, Personalized Treatment, Psychometrics, Digital Ethics, Mental Health Disparities
+Intensive Longitudinal Data, Personalized and Dimensional Models of Psychopathology, Modeling Psychopathology as a Complex System, Prediction, Personalized Treatment, Psychometrics, Digital Ethics, Mental Health Disparities
 
 # Education
 Dartmouth College, 2021-2025 (Expected)
