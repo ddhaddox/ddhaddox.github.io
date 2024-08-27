@@ -3,14 +3,14 @@ layout: default
 ---
 
 # About Me
-I am an undergraduate psychology major at Dartmouth College, with minors in computer science and philosophy. I work as a research assistant in Dr. Nicholas Jacobson’s [AI and Mental Health: Innovation in Technology-Guided Healthcare Lab](https://geiselmed.dartmouth.edu/jacobsonlab/) and Dr. Thalia Wheatley’s [Dartmouth Social Systems Lab](http://www.wheatlab.com). My goal is to pursue a PhD in clinical psychology, focusing on applying the precision medicine paradigm to clinical psychology. Outside of academics, I am an active member of the Dartmouth Sings a cappella group and serve as an officer for the Dartmouth Philosophy Society. In my leisure time, I enjoy reading, walking in nature, and computer and roleplaying games.
+I am an undergraduate psychology major at Dartmouth College, with a minor in computer science. I work as a research assistant in Dr. Nicholas Jacobson’s [AI and Mental Health: Innovation in Technology-Guided Healthcare Lab](https://geiselmed.dartmouth.edu/jacobsonlab/) and Dr. Thalia Wheatley’s [Dartmouth Social Systems Lab](http://www.wheatlab.com). My goal is to pursue a PhD in clinical psychology, focusing on applying the precision medicine paradigm to clinical psychology. Outside of academics, I am an active member of the Dartmouth Sings a cappella group and serve as an officer for the Dartmouth Philosophy Society. In my leisure time, I enjoy reading, walking in nature, and computer and roleplaying games.
 
 *!! I am applying to Clinical Psychology PhD programs for the 2025 admissions cycle !!*
 
 # Education
 Dartmouth College, 2021-2025 (Expected)
 
-Bachelor of Arts in Psychology, Minors in Computer Science and Philosophy
+Bachelor of Arts in Psychology, Minor in Computer Science
 
 # Publications
 
@@ -27,4 +27,7 @@ Hill, C., **Haddox, D.**, Setiawan, J., Mari, S., & Sawaumi, T. (in preparation)
 
 Mackin, D. M., Dorris, H., **Haddox, D.**, Price, G. D., Kotov, R., Ruggero, C. J., Feltman, S. M., Luft, B. J., & Jacobson, N. C. (in preparation). Predicting daily PTSD symptoms in World Trade Center responders using passively-collected movement data: An idiographic deep learning approach.
 
+Collins, A. C., Calafiore, C., **Haddox, D.**, Gallagher, M. R., Lekkas, D., Griffin, T. Z., Nemesure, M. D., Price, G. D., Heinz, M. V., Nepal, S., Pillai, A., Mackin, D. M., Campbell, A. T., & Jacobson, N. C. (in preparation). Digital biomarkers of avoidance and their relationship with depression and anxiety symptoms.
+
 Mackin, D. M., Dorris, H., York, C., **Haddox, D.**, Schleider, J., & Jacobson, N. C. (in preparation). Predicting individual response to digital single session interventions for adolescent depression: A secondary analysis using ensemble machine learning models.
+
