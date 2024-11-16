@@ -33,3 +33,5 @@ Hill, C., **Haddox, D.**, Setiawan, J., Mari, S., & Sawaumi, T. (in prep). A cro
 Mackin, D. M., Dorris, H., **Haddox, D.**, Price, G. D., Kotov, R., Ruggero, C. J., Feltman, S. M., Luft, B. J., & Jacobson, N. C. (in prep). Predicting daily PTSD symptoms in World Trade Center responders using passively-collected movement data: An idiographic deep learning approach.
 
 Mackin, D. M., Dorris, H., York, C., **Haddox, D.**, Schleider, J., & Jacobson, N. C. (in prep). Predicting individual response to digital single session interventions for adolescent depression: A secondary analysis using ensemble machine learning models.
+
+<p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
