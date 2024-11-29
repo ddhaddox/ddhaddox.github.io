@@ -26,7 +26,7 @@ Templeton, E., Chang, L., Cone LeBeaumont, M., Nook, E., **Haddox, D.**, Aiman, 
 
 Collins, A. C., **Haddox, D.**, Calafiore, C.,  Gallagher, M. R., Mackin, D. M., Griffin, T. Z., Heinz, M. V., Nemesure, M. D., Price, G. D., Pillai, A., Nepal, S., Lekkas, D., Campbell, A. T., & Jacobson, N. C. (in prep). Digital biomarkers of avoidance and their relationship with depression and anxiety symptoms.
 
-**Haddox, D.**, Mackin, D., Griffin, T., Heinz, M. V., Nemesure, M. D., Collins, A. C., Price, G., Lekkas, D., Pillai, A., Nepal, S., Campbell, A. T., Jacobson, N. C. (in prep). Establishing severity thresholds for the mobile patient health questionnaire-9 (MPHQ-9) in ecological momentary assessment of depressed adults. [preprint]
+**Haddox, D.**, Mackin, D., Griffin, T., Heinz, M. V., Nemesure, M. D., Collins, A. C., Price, G., Lekkas, D., Pillai, A., Nepal, S., Campbell, A. T., Jacobson, N. C. (in prep). Establishing severity thresholds for the mobile patient health questionnaire-9 (MPHQ-9) in ecological momentary assessment of depressed adults.
 
 Hill, C., **Haddox, D.**, Setiawan, J., Mari, S., & Sawaumi, T. (in prep). A cross-cultural analysis of feelings and behaviors in friendships, romantic partnerships, and parent-child relationships.
 
