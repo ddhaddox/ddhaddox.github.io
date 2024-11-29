@@ -14,7 +14,7 @@ Bachelor of Arts in Psychology, Minor in Computer Science
 
 # Publications
 
-Collins, A. C., Price, G. D., Dainer-Best, J., **Haddox, D.**, Beevers, C. G., & Jacobson, N. C. (2024). Changes to positive self-schemas after a positive imagery training are predicted by participant characteristics in a sample with elevated depressive symptoms. Cognitive Therapy and Research. https://doi.org/10.1007/s10608-024-10544-3 
+Collins, A. C., Price, G. D., Dainer-Best, J., **Haddox, D.**, Beevers, C. G., & Jacobson, N. C. (2024). Changes to positive self-schemas after a positive imagery training are predicted by participant characteristics in a sample with elevated depressive symptoms. Cognitive Therapy and Research. [https://doi.org/10.1007/s10608-024-10544-3](https://doi.org/10.1007/s10608-024-10544-3)
 
 Price, G. D., Langener, A. M., **Haddox, D.**, Heinz, M. V., Mackin, D. M., Nemesure, M. D., Collins, A. C., Griffin, T. Z., Pillai, A., Nepal, S., Lekkas, D., Campbell, A. T., & Jacobson, N. C. (invited resubmission). Predicting weekly variability in depressive symptoms among individuals diagnosed with Major Depressive Disorder using deep learning and passively gathered movement data. Psychopathology and Clinical Science.
 
