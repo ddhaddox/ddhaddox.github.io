@@ -3,10 +3,10 @@ layout: default
 ---
 
 # About Me
-I am an undergraduate psychology major at Dartmouth College, minoring in computer science. Currently, I work as a research assistant in Dr. Nicholas Jacobson’s Dr. Nicholas Jacobson’s [AI and Mental Health: Innovation in Technology-Guided Healthcare Lab](https://geiselmed.dartmouth.edu/jacobsonlab/) and Dr. Thalia Wheatley’s [Dartmouth Social Systems Lab](http://www.wheatlab.com). This fall, I will begin my PhD at the University of Arizona, where I will join Dr. Zachary Cohen’s Personalized Treatment Lab. My research interests lie in using data science methods and intensive longitudinal data to improve the conceptualization, measurement, modeling, and prediction of psychopathology and treatment as idiographic and dynamical complex systems. Beyond academics, I am an active member of the Dartmouth Sings a cappella group and serve as an officer for the Dartmouth Philosophy Society.
+I am an undergraduate psychology major at Dartmouth College, minoring in computer science. Currently, I work as a research assistant in Dr. Nicholas Jacobson’s [AI and Mental Health: Innovation in Technology-Guided Healthcare Lab](https://geiselmed.dartmouth.edu/jacobsonlab/) and Dr. Thalia Wheatley’s [Dartmouth Social Systems Lab](http://www.wheatlab.com). This fall, I will begin my PhD at the University of Arizona, where I will join Dr. Zachary Cohen’s [Personalized Treatment Lab](https://sites.arizona.edu/personalized-treatment-lab/). My research interests lie in using data science methods and intensive longitudinal data to improve the conceptualization, measurement, modeling, and prediction of psychopathology and treatment as idiographic and dynamical complex systems. Beyond academics, I am an active member of the Dartmouth Sings a cappella group and serve as an officer for the Dartmouth Philosophy Society.
 
-# Research Interests
-Computational Psychiatry, Precision Treatment, Digital Interventions, Intensive Longitudinal Data, Digital Phenotyping, Artificial Intelligence, Complex Systems, Psychometrics, Philosophy of Science, Ethical Science \& Implementation
+### Research Interests
+Computational Psychiatry, Precision Treatment, Intensive Longitudinal Data, Psychometrics, Philosophy of Science, Ethical Science & Implementation
 
 # Education
 Dartmouth College, 2021-2025 (Expected)
