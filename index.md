@@ -9,9 +9,9 @@ I am an undergraduate psychology major at Dartmouth College, minoring in compute
 
 # Education
 
-**University of Arizona**
+**University of Arizona**  
 *Ph.D. in Clinical Psychology (Incoming Student)*  
-2025–2031 (Expected)
+2025–2031 (Expected)  
 
 **Dartmouth College**  
 *B.A. in Psychology, Minor in Computer Science*  
