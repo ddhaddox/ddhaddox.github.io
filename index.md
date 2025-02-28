@@ -9,9 +9,15 @@ I am an undergraduate psychology major at Dartmouth College, minoring in compute
 Computational Psychiatry, Precision Treatment, Intensive Longitudinal Data, Psychometrics, Philosophy of Science, Ethical Science & Implementation
 
 # Education
-Dartmouth College, 2021-2025 (Expected)
 
-Bachelor of Arts in Psychology, Minor in Computer Science
+**University of Arizona**
+*Ph.D. in Clinical Psychology (Incoming Student)*  
+2025–2031 (Expected)
+
+**Dartmouth College**  
+*B.A. in Psychology, Minor in Computer Science*  
+2021–2025 (Expected)
+
 
 # Publications
 
