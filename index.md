@@ -24,10 +24,10 @@ Collins, A. C., Price, G. D., Dainer-Best, J., **Haddox, D.**, Beevers, C. G., &
 
 **Haddox, D.**, Mackin, D., Griffin, T., Heinz, M. V., Nemesure, M. D., Collins, A. C., Price, G., Lekkas, D., Pillai, A., Nepal, S., Campbell, A. T., Jacobson, N. C. (invited resubmission). Psychometric properties and validity of a mobile patient health questionnaire-9 (MPHQ-9) for ecological momentary assessment in depressed adults. [preprint](https://osf.io/preprints/osf/rfvy5)
 
-Collins, A. C., **Haddox, D.**, Calafiore, C., Gallagher, M. R., Heinz, M. V., Lekkas, D., Griffin, T. Z., Nemesure, M. D., Price, G. D., Nepal, S., Pillai, A., Mackin, D. M., Campbell, A. T., Winer, E. S., & Jacobson, N. C. (under review). Digital biomarkers of avoidance and their relationship with depression and anxiety symptoms.
-
 Price, G. D., Langener, A. M., **Haddox, D.**, Heinz, M. V., Mackin, D. M., Nemesure, M. D., Collins, A. C., Griffin, T. Z., Pillai, A., Nepal, S., Lekkas, D., Campbell, A. T., & Jacobson, N. C. (invited resubmission). Predicting weekly variability in depressive symptoms among individuals diagnosed with Major Depressive Disorder using deep learning and passively gathered movement data. Psychopathology and Clinical Science. [preprint](https://osf.io/wcrq8)
 
 Templeton, E., Chang, L., Cone LeBeaumont, M., Nook, E., **Haddox, D.**, Aiman, E., & Wheatley, T. (under review). From talk to telepathy: The spontaneous use of insider language in casual conversation. [preprint](https://osf.io/preprints/psyarxiv/g38cx)
+
+Collins, A. C., **Haddox, D.**, Calafiore, C., Gallagher, M. R., Heinz, M. V., Lekkas, D., Griffin, T. Z., Nemesure, M. D., Price, G. D., Nepal, S., Pillai, A., Mackin, D. M., Campbell, A. T., Winer, E. S., & Jacobson, N. C. (under review). Digital biomarkers of avoidance and their relationship with depression and anxiety symptoms.
 
 <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
