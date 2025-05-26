@@ -28,6 +28,6 @@ Price, G. D., Langener, A. M., **Haddox, D.**, Heinz, M. V., Mackin, D. M., Neme
 
 Templeton, E., Chang, L., Cone LeBeaumont, M., Nook, E., **Haddox, D.**, Aiman, E., & Wheatley, T. (under review). From talk to telepathy: The spontaneous use of insider language in casual conversation. [preprint](https://osf.io/preprints/psyarxiv/g38cx)
 
-Collins, A. C., **Haddox, D.**, Calafiore, C., Gallagher, M. R., Heinz, M. V., Lekkas, D., Griffin, T. Z., Nemesure, M. D., Price, G. D., Nepal, S., Pillai, A., Mackin, D. M., Campbell, A. T., Winer, E. S., & Jacobson, N. C. (under review). Digital biomarkers of avoidance and their relationship with depression and anxiety symptoms.
+Collins, A. C., **Haddox, D.**, Calafiore, C., Gallagher, M. R., Heinz, M. V., Lekkas, D., Griffin, T. Z., Nemesure, M. D., Price, G. D., Nepal, S., Pillai, A., Mackin, D. M., Campbell, A. T., Winer, E. S., & Jacobson, N. C. (under review). Digital biomarkers of avoidance and their relationship with depression and anxiety symptoms. [preprint](https://osf.io/preprints/osf/v4wzr_v1)
 
 <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
