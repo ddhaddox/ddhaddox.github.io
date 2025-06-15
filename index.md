@@ -15,7 +15,7 @@ Ph.D. in Clinical Psychology (Incoming Student)
 
 ### Dartmouth College
 B.A. in Psychology, Minor in Computer Science  
-Summa Cum Laude | Honors in the Major
+Summa Cum Laude | Honors in the Major  
 2021–2025
 
 
