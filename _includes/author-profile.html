@@ -86,6 +86,15 @@
         <li><a href="https://www.stackoverflow.com/users/{{ author.stackoverflow }}"><i class="fab fa-fw fa-stack-overflow icon-pad-right" aria-hidden="true"></i>Stackoverflow</a></li>
       {% endif %}      
 
+      <!-- CV -->
+      {% if author.cv %}
+        <li>
+          <a href="{{ author.cv }}">
+            <i class="fas fa-fw fa-download icon-pad-right" aria-hidden="true"></i>CV
+          </a>
+        </li>
+      {% endif %}
+
       <!-- Font Awesome icons / Social media -->
       {% if author.bluesky %}
         <li><a href="https://bsky.app/profile/{{ author.bluesky }}"><i class="fab fa-fw fa-bluesky icon-pad-right" aria-hidden="true"></i>Bluesky</a></li>
