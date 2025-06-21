@@ -7,15 +7,19 @@
 # NOTE that only one of the CV options should be selected, the first is for the
 #      Markdown formatted page while the second is generated using JSON.
 
+# main links
 main:
-  # - title: "Education"
-  #   url: /education/
+  - title: "About"
+    url: /#about
 
-  # - title: "Publications"
-  #   url: /publications/
+  - title: "Education"
+    url: /#education
 
-  # - title: "CV"
-  #   url: /files/DawsonHaddoxCV_June2025.pdf
+  - title: "Publications"
+    url: /#publications
+
+  - title: "CV"
+    url: /files/DawsonHaddoxCV_June2025.pdf
 
   # - title: "Talks"
   #   url: /talks/    

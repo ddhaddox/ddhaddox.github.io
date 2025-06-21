@@ -442,3 +442,14 @@
     }
   }
 }
+
+/* Style for the active link in the main visible navigation bar */
+.greedy-nav .visible-links a.active {
+  font-weight: bold;
+}
+
+/* Style for the active link when it's in the dropdown "hidden" menu on smaller screens */
+.greedy-nav .hidden-links a.active {
+  font-weight: bold;
+  background: var(--global-border-color); // Makes it stand out in the dropdown
+}
