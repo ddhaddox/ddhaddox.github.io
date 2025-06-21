@@ -1,6 +1,6 @@
 ---
 permalink: /
-# title: "Dawson Haddox"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
@@ -8,8 +8,7 @@ redirect_from:
 ---
 
 # About
-
-I am a clinical psychology Ph.D. student at the University of Arizona working in Dr. Zachary Cohen's [Personalized Treatment Lab](https://sites.arizona.edu/personalized-treatment-lab/). Previously, I worked in Dr. Nicholas Jacobson’s [AI and Mental Health Lab](https://geiselmed.dartmouth.edu/jacobsonlab/) and Dr. Thalia Wheatley’s [Dartmouth Social Systems Lab](http://www.wheatlab.com). My research uses data science methods and intensive longitudinal data to improve how we conceptualize, measure, and predict psychopathology and treatment as idiographic and dynamic complex systems.
+I'm a clinical psychology Ph.D. student at the University of Arizona working in Dr. Zachary Cohen's [Personalized Treatment Lab](https://sites.arizona.edu/personalized-treatment-lab/). Previously, I worked in Dr. Nicholas Jacobson’s [AI and Mental Health Lab](https://geiselmed.dartmouth.edu/jacobsonlab/) and Dr. Thalia Wheatley’s [Dartmouth Social Systems Lab](http://www.wheatlab.com). My research uses data science methods and intensive longitudinal data to improve how we conceptualize, measure, and predict psychopathology and treatment as idiographic and dynamic complex systems.
 
 **Research Interests:** 
 - Computational Psychiatry
