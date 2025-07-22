@@ -22,7 +22,7 @@ I'm a clinical psychology Ph.D. student at the University of Arizona working in 
 <h1 id="education">Education</h1>
 
 ### University of Arizona
-Ph.D. in Clinical Psychology (Incoming Student)  
+Ph.D. in Clinical Psychology
 2025–2031 (Expected)
 
 ### Dartmouth College
@@ -43,6 +43,8 @@ Price, G. D., Langener, A. M., **Haddox, D.**, Heinz, M. V., Mackin, D. M., Neme
 Templeton, E., Chang, L., Cone LeBeaumont, M., Nook, E., **Haddox, D.**, Aiman, E., & Wheatley, T. (under review). From talk to telepathy: The spontaneous use of insider language in casual conversation. [preprint](https://osf.io/preprints/psyarxiv/g38cx)
 
 Collins, A. C., **Haddox, D.**, Calafiore, C., Gallagher, M. R., Heinz, M. V., Lekkas, D., Griffin, T. Z., Nemesure, M. D., Price, G. D., Nepal, S., Pillai, A., Mackin, D. M., Campbell, A. T., Winer, E. S., & Jacobson, N. C. (under review). Digital biomarkers of avoidance and their relationship with depression and anxiety symptoms. [preprint](https://osf.io/preprints/osf/v4wzr_v1)
+
+Langener, A. M., **Haddox, D.**, Mackin, D. M., Price, G. D., Lekkas, D., Collins, A. C., Griffin, T. Z., Heinz, M. V., Nemesure, M. D., Nepal, S., Pillai, A., Campbell, A. T., & Jacobson, N. C. (under review). Predicting and detecting alcohol consumption in individuals diagnosed with major depressive disorder. 
 
 <!-- {% assign journal_pubs = site.publications
 | where: "category", "manuscripts"
