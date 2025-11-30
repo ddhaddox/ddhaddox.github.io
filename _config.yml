@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "Dawson Haddox"
 title_separator          : "-"
 name                     : &name "Dawson Haddox"
-description              : &description "personal description"
+description              : &description "Clinical psychology Ph.D. student at the University of Arizona specializing in computational psychiatry, digital phenotyping, and precision treatment using intensive longitudinal data."
 url                      : https://dawsonhaddox.com # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -24,9 +24,9 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Dawson Haddox"
-  pronouns         : # example: "she/her"  
-  bio              : "Clinical Psychology Ph.D. Student"
-  # location         : "Tucson, Arizona, USA" # Location of the author
+  pronouns         : "he/him" 
+  bio              : "Clinical psychology Ph.D. student at the University of Arizona using data science and intensive longitudinal data to improve prediction, measurement, and treatment of mental health."
+  location         : "Tucson, Arizona, USA" # Location of the author
   employer         : "University of Arizona"
   uri              : # URL
   email            : "dawsonhaddox@arizona.edu" 
@@ -145,9 +145,15 @@ og_description           :  # Social media default site image description
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  type                   : Person
+  name                   : "Dawson Haddox"
+  links:     
+    - "https://scholar.google.com/citations?user=0oHkZcEAAAAJ"
+    - "https://orcid.org/0009-0004-8595-6454"
+    - "https://www.linkedin.com/in/dawson-haddox"
+    - "https://x.com/DawsonHaddox"
+    - "https://www.researchgate.net/profile/Dawson-Haddox"
+    - "https://bsky.app/profile/dawsonhaddox.bsky.social
 
 
 # Analytics
