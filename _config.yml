@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "Dawson Haddox"
 title_separator          : "-"
 name                     : &name "Dawson Haddox"
-description              : &description "Clinical psychology Ph.D. student at the University of Arizona specializing in computational psychiatry, digital phenotyping, and precision treatment using intensive longitudinal data."
+description              : &description "Clinical psychology Ph.D. student at the University of Arizona using data science and intensive longitudinal data to improve prediction, measurement, and treatment of mental health."
 url                      : https://dawsonhaddox.com # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -25,10 +25,10 @@ author:
   avatar           : "profile.png"
   name             : "Dawson Haddox"
   pronouns         : "he/him" 
-  bio              : "Clinical psychology Ph.D. student at the University of Arizona using data science and intensive longitudinal data to improve prediction, measurement, and treatment of mental health."
+  bio              : "Clinical Psychology Ph.D. Student"
   location         : "Tucson, Arizona, USA" # Location of the author
   employer         : "University of Arizona"
-  uri              : # URL
+  uri              : "dawsonhaddox.com"
   email            : "dawsonhaddox@arizona.edu" 
 
   # CV
@@ -37,7 +37,7 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : # "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=0oHkZcEAAAAJ&hl=en&authuser=1"
   impactstory      : # URL
   orcid            : # "http://orcid.org/yourorcidurl"
   semantic         : # URL
