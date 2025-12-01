@@ -24,11 +24,11 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Dawson Haddox"
-  pronouns         : "he/him" 
+  pronouns         : #"he/him" 
   bio              : "Clinical Psychology Ph.D. Student"
   location         : "Tucson, Arizona, USA" # Location of the author
   employer         : "University of Arizona"
-  uri              : "dawsonhaddox.com"
+  uri              : #"dawsonhaddox.com"
   email            : "dawsonhaddox@arizona.edu" 
 
   # CV
