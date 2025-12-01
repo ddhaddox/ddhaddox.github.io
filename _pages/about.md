@@ -34,7 +34,7 @@ Summa Cum Laude | Honors in the Major
 
 <h1 id="publications">Publications</h1>
 
-**Haddox, D.**, Mackin, D. M., Griffin, T. Z., Heinz, M. V., Nemesure, M. D., Collins, A. C., Price, G. D., Lekkas, D., Pillai, A., Nepal, S., Campbell, A. T., & Jacobson, N. C. (2025). Psychometric properties and validity of a Mobile Patient Health Questionnaire-9 (MPHQ-9) for ecological momentary assessment in depressed adults. Psychological assessment, 10.1037/pas0001431. Advance online publication. [https://doi.org/10.1037/pas0001431](https://doi.org/10.1037/pas0001431)
+**Haddox, D.**, Mackin, D. M., Griffin, T. Z., Heinz, M. V., Nemesure, M. D., Collins, A. C., Price, G. D., Lekkas, D., Pillai, A., Nepal, S., Campbell, A. T., & Jacobson, N. C. (in press). Psychometric properties and validity of a Mobile Patient Health Questionnaire-9 (MPHQ-9) for ecological momentary assessment in depressed adults. *Psychological Assessment*. Advance online publication. [https://doi.org/10.1037/pas0001431](https://doi.org/10.1037/pas0001431)
 
 Collins, A. C., Price, G. D., Dainer-Best, J., **Haddox, D.**, Beevers, C. G., & Jacobson, N. C. (2024). Changes to positive self-schemas after a positive imagery training are predicted by participant characteristics in a sample with elevated depressive symptoms. *Cognitive Therapy and Research*. [https://doi.org/10.1007/s10608-024-10544-3](https://doi.org/10.1007/s10608-024-10544-3)
 
