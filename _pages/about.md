@@ -34,18 +34,19 @@ Summa Cum Laude | Honors in the Major
 
 <h1 id="publications">Publications</h1>
 
-**Haddox, D.**, Mackin, D. M., Griffin, T. Z., Heinz, M. V., Nemesure, M. D., Collins, A. C., Price, G. D., Lekkas, D., Pillai, A., Nepal, S., Campbell, A. T., & Jacobson, N. C. (in press). Psychometric properties and validity of a Mobile Patient Health Questionnaire-9 (MPHQ-9) for ecological momentary assessment in depressed adults. *Psychological Assessment*. Advance online publication. [https://doi.org/10.1037/pas0001431](https://doi.org/10.1037/pas0001431)
+Langener, A. M., **Haddox, D.**, Mackin, D. M., Price, G. D., Lekkas, D., Collins, A. C., Griffin, T. Z., Heinz, M. V., Nemesure, M. D., Nepal, S., Pillai, A., Campbell, A. T., & Jacobson, N. C. (2026). Passive data do not improve prediction or detection of alcohol consumption beyond temporal patterns in major depression: A 90-day cross-validated study. *Addictive Behaviors, 175*, 108624. [https://doi.org/10.1016/j.addbeh.2026.108624](https://doi.org/10.1016/j.addbeh.2026.108624)
+
+**Haddox, D.**, Mackin, D. M., Griffin, T. Z., Heinz, M. V., Nemesure, M. D., Collins, A. C., Price, G. D., Lekkas, D., Pillai, A., Nepal, S., Campbell, A. T., & Jacobson, N. C. (2025). Psychometric properties and validity of a Mobile Patient Health Questionnaire-9 (MPHQ-9) for ecological momentary assessment in depressed adults. *Psychological Assessment*. Advance online publication. [https://doi.org/10.1037/pas0001431](https://doi.org/10.1037/pas0001431)
+
 
 Collins, A. C., Price, G. D., Dainer-Best, J., **Haddox, D.**, Beevers, C. G., & Jacobson, N. C. (2024). Changes to positive self-schemas after a positive imagery training are predicted by participant characteristics in a sample with elevated depressive symptoms. *Cognitive Therapy and Research*. [https://doi.org/10.1007/s10608-024-10544-3](https://doi.org/10.1007/s10608-024-10544-3)
 
-
-Price, G. D., Langener, A. M., **Haddox, D.**, Heinz, M. V., Mackin, D. M., Nemesure, M. D., Collins, A. C., Griffin, T. Z., Pillai, A., Nepal, S., Lekkas, D., Campbell, A. T., & Jacobson, N. C. (invited resubmission). Predicting weekly variability in depressive symptoms among individuals diagnosed with Major Depressive Disorder using deep learning and passively gathered movement data. Psychopathology and Clinical Science. [preprint](https://osf.io/wcrq8)
+Price, G. D., Langener, A. M., **Haddox, D.**, Heinz, M. V., Mackin, D. M., Nemesure, M. D., Collins, A. C., Griffin, T. Z., Pillai, A., Nepal, S., Lekkas, D., Campbell, A. T., & Jacobson, N. C. (under review). Predicting weekly variability in depressive symptoms among individuals diagnosed with Major Depressive Disorder using deep learning and passively gathered movement data. [preprint](https://osf.io/wcrq8)
 
 Collins, A. C., **Haddox, D.**, Calafiore, C., Gallagher, M. R., Heinz, M. V., Lekkas, D., Griffin, T. Z., Nemesure, M. D., Price, G. D., Nepal, S., Pillai, A., Mackin, D. M., Campbell, A. T., Winer, E. S., & Jacobson, N. C. (under review). Digital biomarkers of avoidance and their relationship with depression and anxiety symptoms. [preprint](https://osf.io/preprints/osf/v4wzr_v1)
 
 Templeton, E., Chang, L., Cone LeBeaumont, M., Nook, E., **Haddox, D.**, Aiman, E., & Wheatley, T. (under review). From talk to telepathy: The spontaneous use of insider language in casual conversation. [preprint](https://osf.io/preprints/psyarxiv/g38cx)
 
-Langener, A. M., **Haddox, D.**, Mackin, D. M., Price, G. D., Lekkas, D., Collins, A. C., Griffin, T. Z., Heinz, M. V., Nemesure, M. D., Nepal, S., Pillai, A., Campbell, A. T., & Jacobson, N. C. (under review). Predicting and detecting alcohol consumption in individuals diagnosed with major depressive disorder. 
 
 <!-- {% assign journal_pubs = site.publications
 | where: "category", "manuscripts"
