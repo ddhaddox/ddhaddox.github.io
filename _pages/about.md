@@ -34,10 +34,9 @@ Summa Cum Laude | Honors in the Major
 
 <h1 id="publications">Publications</h1>
 
+**Haddox, D.**, Mackin, D. M., Griffin, T. Z., Heinz, M. V., Nemesure, M. D., Collins, A. C., Price, G. D., Lekkas, D., Pillai, A., Nepal, S., Campbell, A. T., & Jacobson, N. C. (2026). Psychometric properties and validity of a Mobile Patient Health Questionnaire–9 (MPHQ-9) for ecological momentary assessment in depressed adults. *Psychological Assessment*, 38(3), 159–170. [https://doi.org/10.1037/pas0001431](https://doi.org/10.1037/pas0001431) **[APA Editor's Choice]**
+
 Langener, A. M., **Haddox, D.**, Mackin, D. M., Price, G. D., Lekkas, D., Collins, A. C., Griffin, T. Z., Heinz, M. V., Nemesure, M. D., Nepal, S., Pillai, A., Campbell, A. T., & Jacobson, N. C. (2026). Passive data do not improve prediction or detection of alcohol consumption beyond temporal patterns in major depression: A 90-day cross-validated study. *Addictive Behaviors, 175*, 108624. [https://doi.org/10.1016/j.addbeh.2026.108624](https://doi.org/10.1016/j.addbeh.2026.108624)
-
-**Haddox, D.**, Mackin, D. M., Griffin, T. Z., Heinz, M. V., Nemesure, M. D., Collins, A. C., Price, G. D., Lekkas, D., Pillai, A., Nepal, S., Campbell, A. T., & Jacobson, N. C. (2025). Psychometric properties and validity of a Mobile Patient Health Questionnaire-9 (MPHQ-9) for ecological momentary assessment in depressed adults. *Psychological Assessment*. Advance online publication. [https://doi.org/10.1037/pas0001431](https://doi.org/10.1037/pas0001431)
-
 
 Collins, A. C., Price, G. D., Dainer-Best, J., **Haddox, D.**, Beevers, C. G., & Jacobson, N. C. (2024). Changes to positive self-schemas after a positive imagery training are predicted by participant characteristics in a sample with elevated depressive symptoms. *Cognitive Therapy and Research*. [https://doi.org/10.1007/s10608-024-10544-3](https://doi.org/10.1007/s10608-024-10544-3)
 
