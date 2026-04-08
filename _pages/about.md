@@ -12,10 +12,10 @@ I'm a clinical psychology Ph.D. student at the University of Arizona working in 
 
 **Research Interests:**
 - Computational Psychiatry
-- Artificial Intelligence
 - Precision Treatment
-- Intensive Longitudinal Data
+- Artificial Intelligence
 - Psychometrics
+- Intensive Longitudinal Data
 
 ---
 
