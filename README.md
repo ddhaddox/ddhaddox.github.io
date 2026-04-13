@@ -6,7 +6,7 @@ This is the source for [dawsonhaddox.com](https://dawsonhaddox.com), built with 
 
 ## Site Structure & How to Edit
 
-### Homepage (`_pages/about.md`)
+### About page (`_pages/about.md`)
 
 The main page at `/` displays your About, Education, and Publications sections. Edit this file to update:
 - Your bio and research focus
@@ -43,7 +43,7 @@ Description of the publication...
 
 See `_publications/_TEMPLATE.md` for the full template and optional fields.
 
-**Display:** Publications are listed on the Publications section of the homepage and individually at their URLs.
+**Display:** Publications are listed on the Publications section of the About page and individually at their URLs.
 
 ### Talks (`_talks/`)
 
@@ -138,9 +138,9 @@ Key settings to customize:
 ## Navigation (`_data/navigation.yml`)
 
 Control which sections appear in the top nav menu. Currently active:
-- About (homepage anchor)
-- Education (homepage anchor)
-- Publications (homepage anchor)
+- About (About page anchor)
+- Education (About page anchor)
+- Publications (About page anchor)
 - CV (PDF link)
 
 To enable Talks, Teaching, Portfolio, or Blog:
@@ -226,7 +226,7 @@ The site auto-deploys to GitHub Pages whenever you push to `main`.
 ├── _data/
 │   └── navigation.yml       # Top nav menu
 ├── _pages/
-│   ├── about.md             # Homepage
+│   ├── about.md             # About page
 │   ├── 404.md               # Error page
 │   ├── publications.html     # Publications listing
 │   ├── talks.html           # Talks listing

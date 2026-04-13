@@ -6,7 +6,7 @@
   border-bottom: 1px solid #f2f2f2;
 }
 
-.cv-header-nav .home-button {
+.cv-header-nav .about-button {
   display: inline-flex;
   align-items: center;
   gap: 0.5rem;
@@ -19,7 +19,7 @@
   transition: background-color 0.2s;
 }
 
-.cv-header-nav .home-button:hover {
+.cv-header-nav .about-button:hover {
   background-color: #1756a9;
 }
 

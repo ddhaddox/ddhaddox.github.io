@@ -1,21 +1,14 @@
 ---
 title: "Publication Title"
 collection: publications
-category: manuscripts
-permalink: /publication/YYYY-mm-dd-publication-title
-excerpt: ""
 date: YYYY-MM-DD
-venue: 'Journal Name or Conference Name'
-# Optional fields:
-# paperurl: 'https://example.com/paper.pdf'
-# doi: 'https://doi.org/10.xxxx/xxxxx'
-# arxiv: 'https://arxiv.org/abs/xxxx.xxxxx'
+authors: 'Last, F., <strong>Haddox, D.</strong>, Last, F.'
+venue: 'Journal Name'
+# venue_details: 'Volume(Issue), pages'   # optional
+status: 'published'                       # 'published' | 'in-press' | 'preprint'
+# doi: 'https://doi.org/10.xxxx/xxxxx'    # optional
+# preprint: 'https://osf.io/xxxxx'        # optional
+# paperurl: 'https://example.com/paper.pdf'  # optional PDF link
+# award: "Award name"                     # optional, e.g. "APA Editor's Choice"
+citation: 'Full formatted citation as an HTML string (may include <strong>, <em>, etc.).'
 ---
-
-Brief description of the publication. This content will appear on the publication's individual page.
-
-The citation (below) is automatically included on the publication page:
-
-## Citation
-
-Complete APA or preferred citation format here.

@@ -1,0 +1,26 @@
+{% assign pub = include.pub %}
+<article class="publication">
+  <h3 class="publication__title">{{ pub.title }}</h3>
+  <p class="publication__authors">{{ pub.authors }}</p>
+  <p class="publication__meta">
+    {% if pub.status == 'preprint' %}
+      <em>{{ pub.venue }}</em>
+    {% elsif pub.status == 'in-press' %}
+      In Press &middot; <em>{{ pub.venue }}</em>
+    {% else %}
+      <em>{{ pub.venue }}</em>{% if pub.venue_details %}, {{ pub.venue_details }}{% endif %}
+    {% endif %}
+  </p>
+  <div class="publication__links">
+    {% if pub.doi %}<a class="publication__link" href="{{ pub.doi }}" target="_blank" rel="noopener">Paper</a>{% endif %}
+    {% if pub.preprint %}<a class="publication__link" href="{{ pub.preprint }}" target="_blank" rel="noopener">Preprint</a>{% endif %}
+    {% if pub.paperurl %}<a class="publication__link" href="{{ pub.paperurl }}" target="_blank" rel="noopener">PDF</a>{% endif %}
+    {% if pub.award %}<span class="publication__award">&#9733; {{ pub.award }}</span>{% endif %}
+  </div>
+  {% if pub.citation %}
+    <details class="publication__cite">
+      <summary>Cite</summary>
+      <p>{{ pub.citation }}</p>
+    </details>
+  {% endif %}
+</article>

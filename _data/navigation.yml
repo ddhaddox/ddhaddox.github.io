@@ -12,11 +12,8 @@ main:
   - title: "About"
     url: /#about
 
-  - title: "Education"
-    url: /#education
-
   - title: "Publications"
-    url: /#publications
+    url: /publications/
 
   - title: "CV"
     url: /files/DawsonHaddoxCV_Feb2026.pdf

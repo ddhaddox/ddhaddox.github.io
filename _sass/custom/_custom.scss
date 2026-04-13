@@ -1,0 +1,307 @@
+/* ==========================================================================
+   SIDEBAR
+   ========================================================================== */
+
+/* Slightly larger body text in the left sidebar (bio, links).
+   Author name keeps its original $type-size-5 size. */
+.sidebar {
+  p, li {
+    font-size: 0.875em; // ~14px, up from ~12px
+  }
+}
+
+/* Hold the location/employer lines until the sidebar hits its full
+   $x-large width — below that the column is too narrow for the text. */
+.sidebar .author__desktop {
+  @media screen and (min-width: 1024px) and (max-width: 1279px) {
+    display: none;
+  }
+}
+
+/* ==========================================================================
+   ABOUT PAGE
+   ========================================================================== */
+
+.page__content .about-title {
+  margin: 0 0 0.75em;
+  padding: 0;
+  border: 0;
+  font-size: $type-size-2;
+  font-weight: 700;
+  letter-spacing: -0.01em;
+  line-height: 1.15;
+}
+
+.page__content .about-intro {
+  margin: 0 0 2em;
+  font-size: 1.05em;
+  line-height: 1.65;
+  color: var(--global-text-color);
+
+  + p { text-indent: 0; margin-top: 0; }
+}
+
+.about-columns {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 3em;
+  align-items: start;
+  margin: 0.5em 0 1em;
+
+  @include breakpoint(max-width $small) {
+    grid-template-columns: 1fr;
+    gap: 2em;
+  }
+}
+
+.about-columns__col {
+  min-width: 0;
+}
+
+/* Section heading: small uppercase label with a short accent bar underline.
+   Override .page__content h2 defaults that add a full-width gray border. */
+.page__content .about-columns__heading {
+  position: relative;
+  margin: 0 0 1.25em;
+  padding: 0 0 0.6em;
+  border: 0;
+  font-family: $header-font-family;
+  font-size: 0.82em;
+  font-weight: 700;
+  line-height: 1;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--global-text-color-light);
+
+  &::after {
+    content: "";
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 2.2em;
+    height: 3px;
+    background: var(--global-link-color);
+    border-radius: 2px;
+  }
+}
+
+/* Research interests — accent-colored custom bullet markers */
+.page__content .about-interests {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+
+  li {
+    position: relative;
+    margin: 0 0 0.55em;
+    padding-left: 1.2em;
+    font-size: 1.02em;
+    line-height: 1.45;
+    color: var(--global-text-color);
+
+    &::before {
+      content: "";
+      position: absolute;
+      left: 0;
+      top: 0.62em;
+      width: 6px;
+      height: 6px;
+      border-radius: 50%;
+      background: var(--global-link-color);
+    }
+
+    &:last-child { margin-bottom: 0; }
+  }
+}
+
+/* Education degree block — compact, no paragraph margins */
+.about-degree {
+  margin: 0 0 1.4em;
+
+  &:last-child { margin-bottom: 0; }
+}
+
+.about-degree__school {
+  margin: 0;
+  font-size: 1.08em;
+  font-weight: 700;
+  line-height: 1.3;
+  color: var(--global-text-color);
+}
+
+.about-degree__title {
+  margin: 0.15em 0 0;
+  font-size: 0.98em;
+  line-height: 1.4;
+  color: var(--global-text-color);
+}
+
+.about-degree__note {
+  margin: 0.1em 0 0;
+  font-size: 0.92em;
+  line-height: 1.4;
+  color: var(--global-text-color-light);
+}
+
+.about-degree__dates {
+  margin: 0.2em 0 0;
+  font-family: $sans-serif;
+  font-size: 0.85em;
+  letter-spacing: 0.02em;
+  line-height: 1.4;
+  color: var(--global-text-color-light);
+}
+
+
+/* ==========================================================================
+   PUBLICATIONS LIST
+   ========================================================================== */
+
+.publications-list {
+  margin-top: 0.5em;
+}
+
+.publications-year-group {
+  margin: 0 0 2em;
+
+  &:last-child {
+    margin-bottom: 0;
+  }
+}
+
+.publications-year {
+  display: inline-block;
+  margin: 0 0 0.8em;
+  padding-bottom: 0.35em;
+  border-bottom: 2px solid var(--global-link-color);
+  font-family: $sans-serif;
+  font-size: 0.82em;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--global-text-color);
+}
+
+.publication {
+  padding: 1.4em 0 1.5em;
+  border-top: 1px solid var(--global-border-color);
+
+  &:first-of-type {
+    border-top: 0;
+    padding-top: 0.3em;
+  }
+
+  &:last-of-type {
+    padding-bottom: 0.2em;
+  }
+}
+
+.publication__title {
+  margin: 0 0 0.45em;
+  font-size: 1.12em;
+  font-weight: 700;
+  line-height: 1.35;
+  color: var(--global-text-color);
+}
+
+.publication__authors {
+  margin: 0 0 0.2em;
+  font-size: 0.88em;
+  line-height: 1.5;
+  color: var(--global-text-color-light);
+
+  strong {
+    color: var(--global-text-color);
+    font-weight: 600;
+  }
+}
+
+.publication__meta {
+  margin: 0 0 0.7em;
+  font-size: 0.88em;
+  line-height: 1.45;
+  color: var(--global-text-color-light);
+}
+
+.publication__links {
+  margin: 0;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.5em;
+}
+
+.publication__link {
+  display: inline-block;
+  padding: 3px 10px;
+  font-family: $sans-serif;
+  font-size: $type-size-6;
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+  text-decoration: none;
+  color: var(--global-link-color);
+  border: 1px solid var(--global-link-color);
+  border-radius: $border-radius;
+  transition: $global-transition;
+
+  &:hover,
+  &:focus {
+    color: var(--global-bg-color);
+    background: var(--global-link-color);
+    text-decoration: none;
+  }
+}
+
+.publication__award {
+  display: inline-flex;
+  align-items: center;
+  padding: 3px 10px;
+  font-family: $sans-serif;
+  font-size: $type-size-6;
+  font-weight: bold;
+  font-style: italic;
+  letter-spacing: 0.02em;
+  color: #b5791a;
+  background: rgba(194, 123, 11, 0.12);
+  border: 1px solid rgba(194, 123, 11, 0.35);
+  border-radius: $border-radius;
+}
+
+.publication__cite {
+  margin: 0.7em 0 0;
+  font-size: 0.85em;
+
+  > summary {
+    display: inline-block;
+    cursor: pointer;
+    color: var(--global-text-color-light);
+    font-family: $sans-serif;
+    font-size: $type-size-6;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    list-style: none;
+
+    &::-webkit-details-marker {
+      display: none;
+    }
+
+    &:hover {
+      color: var(--global-text-color);
+    }
+  }
+
+  &[open] > summary {
+    margin-bottom: 0.5em;
+  }
+
+  > p {
+    margin: 0;
+    padding: 0.7em 0.95em;
+    font-size: 0.95em;
+    line-height: 1.6;
+    background: rgba(0, 0, 0, 0.035);
+    border-left: 3px solid var(--global-border-color);
+    color: var(--global-text-color);
+  }
+}
