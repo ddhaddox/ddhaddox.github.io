@@ -25,12 +25,12 @@ author_profile: true
     {% endif %}
   {% endfor %}
 
-  {% if preprint_pubs.size > 0 %}
-    <div class="publications-year-group">
-      <div class="publications-year">Preprint</div>
-      {% for pub in preprint_pubs %}
-        {% include publication-entry.html pub=pub %}
-      {% endfor %}
-    </div>
-  {% endif %}
+{% if preprint_pubs.size > 0 %}
+<div class="publications-year-group">
+<div class="publications-year">Preprint</div>
+{% for pub in preprint_pubs %}
+{% include publication-entry.html pub=pub %}
+{% endfor %}
+</div>
+{% endif %}
 </div>
