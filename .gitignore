@@ -1,0 +1,23 @@
+# Jekyll
+_site/
+.jekyll-cache/
+.jekyll-metadata
+
+# Bundler
+vendor/bundle/
+vendor/cache/
+vendor/gems/
+vendor/ruby/
+.bundle/
+
+# Sass/CSS
+.sass-cache/
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
